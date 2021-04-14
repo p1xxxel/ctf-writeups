@@ -22,7 +22,7 @@ Keep in mind that you need to be logged in to see the flag.
 
 Observing her playlist, we can see that name of the playlist is RS and if we check the first letters of all the songs in the playlist it comes out to be `SAGITTARIUS`.
 
-<img src="https://github.com/p1xxxel/ctf-writeups/tree/main/2021/RITSEC/Music%20Signs/musicsigns.jpg" width="50%" height="50%">
+<img src="https://github.com/p1xxxel/ctf-writeups/tree/main/2021/RITSEC/Music%20Signs/musicsigns.png" width="50%" height="50%">
 
 From this our flag becomes:
 
