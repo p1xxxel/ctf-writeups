@@ -34,9 +34,11 @@ These memes have file name starting with db.
 We see there are 10 images.
 
 There are 2 memes that I thought were relevant to the challenge. One of them had a Flag picture with the text RITSEC and a XOR symbol in it.
+
 <img src="https://github.com/p1xxxel/ctf-writeups/blob/main/2021/RITSEC/Memedrive/db7.png" width="50%" height="50%">
 
 The other one saying about encryption with Base64 and XOR.
+
 <img src="https://github.com/p1xxxel/ctf-writeups/blob/main/2021/RITSEC/Memedrive/db8.png" width="50%" height="50%">
 
 After that I decompiled the apk using `jadx-gui`.
