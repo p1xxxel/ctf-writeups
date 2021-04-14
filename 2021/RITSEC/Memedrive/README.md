@@ -31,7 +31,7 @@ These memes have file name starting with db.
 
 `ls -l db*`
 
-We get there are 10 images.
+We see there are 10 images.
 
 There are 2 memes that I thought were relevant to the challenge. One of them had a Flag picture with the text RITSEC and a XOR symbol in it.
 ![](https://github.com/p1xxxel/ctf-writeups/blob/main/2021/RITSEC/Memedrive/db7.png)
