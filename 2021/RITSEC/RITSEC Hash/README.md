@@ -31,7 +31,7 @@ Opening the PDF, we can see the hashing algorithm it uses. We just need to make 
 I wrote the following script :
 
 ```python
-eed = "RITSEC"
+seed = "RITSEC"
 seed1 = seed.encode('UTF-8').hex()
 seed_byte = bytearray.fromhex(seed1)
 temp = bytearray()
