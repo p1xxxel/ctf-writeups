@@ -27,7 +27,9 @@ The hint says it is a stegano challenge. Searching for steganography in txt file
 
 Install the tool using :
 
-`sudo apt install stegsnow`
+```
+sudo apt install stegsnow
+```
 
 We can see from the man page of stegsnow about how to extract the secret message :
 
@@ -35,7 +37,9 @@ We can see from the man page of stegsnow about how to extract the secret message
 
 Using `orion` as our key and we run the following command :
 
-`stegsnow -C -p "orion" headup.txt`
+```
+stegsnow -C -p "orion" headup.txt
+```
 
 From this, we get the flag:
 
