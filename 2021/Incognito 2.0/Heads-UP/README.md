@@ -19,7 +19,7 @@ Opening the txt file, we see that we are given some coordinates.
 
 Plotting the coordinates using [dcode.fr](https://www.dcode.fr/coordinates-geolocalization) we get :
 
-<img src="https://github.com/p1xxxel/ctf-writeups/blob/main/2021/Incognito%202.0/heads-up.png">
+<img src="https://github.com/p1xxxel/ctf-writeups/blob/main/2021/Incognito%202.0/Heads-UP/heads-up.png">
 
 As the locations were very close by and from the name of the challenge, I thought that it might be a constellation. As there are 19 points, I searched for constellation with 19 stars which was `orion`.
 

@@ -15,7 +15,7 @@ The admin has **put** additional **security** measures to protect the site.
 
 Visiting the page, we see a login panel with Sign In, Sign Up and Forgot Password features but the only thing that works is the Sign In feature.
 
-<img src=https://github.com/p1xxxel/ctf-writeups/tree/main/2021/Incognito%202.0/simple_admin.png>
+<img src="https://github.com/p1xxxel/ctf-writeups/blob/main/2021/Incognito%202.0/Simple%20Login/simple_login.png">
 
 I tried putting in the credentials `admin:admin` which resulted in the page saying :
 
