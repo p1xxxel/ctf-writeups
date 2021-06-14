@@ -18,7 +18,7 @@ This was a simple buffer overflow exploit.
 
 #### Vulnerable code
 ```cpp
-	puts("╔════════════════════════╗");
+    puts("╔════════════════════════╗");
     puts("║ THE QUIZ               ║");
     puts("║                        ║");
     puts("║ 1) Recite the alphabet ║");
