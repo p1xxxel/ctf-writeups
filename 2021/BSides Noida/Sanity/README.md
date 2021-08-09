@@ -25,6 +25,7 @@ Opening the binary in Ollydbg and setting the breakpoint at the `CMP` instructio
 The flag length is 33 as this was the length of the string getting XORed with input(from ghidra).
 
 We send 33 A's and then look at the CMP instruction.
+
 <img src="https://github.com/p1xxxel/ctf-writeups/blob/main/2021/BSides%20Noida/Sanity/CMP_instruction.png">
 
 So A gets converted into H and then is compared to K. So we can just XOR A with H to get the key and then XOR the key with K to get the flag.

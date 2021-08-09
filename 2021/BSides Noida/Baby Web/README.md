@@ -24,7 +24,7 @@ Looking at the `index.php` file, we see that the following sql query is being ex
 
 But if we try to put an alphabet in the parameter `chall_id`, we get an error.
 
-<img src="https://github.com/p1xxxel/ctf-writeups/blob/main/2021/BSides%20Noida/Baby%20Web/baby_web_error.png">
+<img src="https://github.com/p1xxxel/ctf-writeups/blob/main/2021/BSides%20Noida/Baby%20Web/baby_web_error.png" height="50%" width="50%">
 
 Looking at `config/ctf.conf` in the source code, there is some regex that is used to prevent alphabets and white spaces.
 
