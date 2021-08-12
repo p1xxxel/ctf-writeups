@@ -30,6 +30,7 @@ To do this, create a new vm and add the iso as bootable disk, select the vdi fil
 When you do `lsblk`, the `/dev/sda1` is the boot partition and `/dev/sda2` is the file system.
 
 You might have some errors while mounting `/dev/sda2` directly.
+
 ![](https://github.com/p1xxxel/ctf-writeups/blob/main/2021/RCTS%20CERT%202021/Locked%20outside/mounting_error.png)
 
 If you do get the same error, use this solution https://askubuntu.com/questions/766048/mount-unknown-filesystem-type-lvm2-member and `/dev/sda2` should be mounted correctly.
